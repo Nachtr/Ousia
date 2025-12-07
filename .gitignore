@@ -1,0 +1,8 @@
+# Ignore model weights
+final_bart_model/
+bart_samsum_model/
+runs/
+__pycache__/
+*.pt
+*.bin
+.ipynb_checkpoints/
