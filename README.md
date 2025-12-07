@@ -64,4 +64,6 @@ Heres what I found:
 
 # How to Run
 1. Install required Dependencies
-2. Run!
+  '''bash
+  pip install -r requirements.txt
+3. Run!
