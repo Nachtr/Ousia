@@ -8,7 +8,7 @@ By: Danny Whitaker
 # Executive Summary
 This capstone project was designed to address the critical information overload problem on modern messaging platforms. By implementing and fine-tuning a BART transformer model and comparing its results with those of a GPT-2 model on the same SAMSum dataset, we created a production-ready summarization engine capable of accurately condensing long conversational threads into short summaries.
 
-# Results:
+# Results
 
 **Performance:** I was able to achieve 0.53 ROUGE-1 score which exceeded my target value of 0.40. 
 **Efficiency:** Reduced summarization time from 300s (human avg) to just under 1s (0.83s) using the AI model.
